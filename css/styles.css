@@ -97,8 +97,8 @@ header.nav.scrolled{
 header.nav.scrolled .inner{padding:14px 40px;}
 header.nav.hide{transform:translateY(-100%);}
 header.nav .brand{display:flex;align-items:center;gap:14px;}
-header.nav .brand img{height:74px;width:auto;transition:height .4s var(--ease);}
-header.nav.scrolled .brand img{height:58px;}
+header.nav .brand img{height:54px;width:auto;transition:height .4s var(--ease);}
+header.nav.scrolled .brand img{height:44px;}
 header.nav .brand .light-logo{display:none;}
 header.nav .brand .dark-logo{display:block;}
 /* on dark hero (top, not scrolled) use light logo + light links */
