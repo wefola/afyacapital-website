@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" fill="none">
+  <!-- Gold A with leaf symbol -->
+  <g transform="translate(8, 8)">
+    <!-- A shape -->
+    <path d="M38 8 L62 78 L54 78 L48 60 L28 60 L22 78 L14 78 Z M38 22 L44 52 L32 52 Z" fill="url(#goldGrad)"/>
+    <!-- Leaf -->
+    <path d="M20 72 Q10 58 18 46 Q26 58 38 62 Q28 64 20 72Z" fill="url(#goldGrad)" opacity="0.9"/>
+    <path d="M20 72 Q14 62 18 46" stroke="#C09858" stroke-width="1" fill="none" opacity="0.6"/>
+  </g>
+  <!-- Vertical divider -->
+  <line x1="88" y1="12" x2="88" y2="88" stroke="#C09858" stroke-width="1.2" opacity="0.7"/>
+  <!-- AFYA text -->
+  <text x="102" y="52" font-family="Cormorant Garamond, Georgia, serif" font-size="42" font-weight="600" fill="#082048" letter-spacing="6">AFYA</text>
+  <!-- Gold underline -->
+  <line x1="102" y1="58" x2="230" y2="58" stroke="#C09858" stroke-width="1.5"/>
+  <!-- CAPITAL text -->
+  <text x="104" y="76" font-family="Cormorant Garamond, Georgia, serif" font-size="20" font-weight="500" fill="#C09858" letter-spacing="8">CAPITAL</text>
+  <!-- Tagline -->
+  <text x="102" y="92" font-family="Public Sans, Arial, sans-serif" font-size="8" font-weight="400" fill="#082048" letter-spacing="2.5" opacity="0.7">INVESTING IN HEALTH. GROWING AFRICA.</text>
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4AA60"/>
+      <stop offset="50%" style="stop-color:#C09858"/>
+      <stop offset="100%" style="stop-color:#9C7A40"/>
+    </linearGradient>
+  </defs>
+</svg>
